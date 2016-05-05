@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Vectric (http://www.vectric.com/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.76621976mm"
+   height="5.52522158mm"
+   viewBox="0 0 3.76621976 5.52522158"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="1 Vindkraftverk.svg">
+  <metadata
+     id="metadata4939">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4937" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview4935"
+     showgrid="false"
+     inkscape:zoom="27.737497"
+     inkscape:cx="1.0349872"
+     inkscape:cy="9.7285688"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="a704e170-2d67-4476-ad57-af5f9aa3714c" />
+  <g
+     inkscape:groupmode="layer"
+     id="8fd75bce-7983-4791-83d0-40fdb48fba71"
+     inkscape:label="Bitmap Layer" />
+  <g
+     inkscape:groupmode="layer"
+     id="a704e170-2d67-4476-ad57-af5f9aa3714c"
+     inkscape:label="Layer 1">
+    <path
+       fill="param(fill) #F00" stroke="param(outline) #000" stroke-width="param(outline-width) 0.05"
+       d="M 1.406463,5.475732 C 1.464320,5.545446 1.657540,5.522426 1.881179,5.522426 C 2.021821,5.522426 2.245826,5.532176 2.319577,5.504267 C 2.400090,5.473800 2.372361,5.277133 2.337735,5.234484 L 2.233973,5.182602 L 2.133646,3.200310 L 2.118003,2.972377 C 2.084076,2.835576 1.984080,2.827284 1.837077,2.839450 C 1.660164,2.854092 1.633584,2.899976 1.629601,3.197610 C 1.627089,3.385362 1.604672,3.900927 1.600666,4.342979 L 1.559513,5.187790 L 1.416839,5.234484 C 1.369801,5.251617 1.349023,5.406521 1.406463,5.475732 "
+       id="path4925" />
+    <path
+       fill="param(fill) #F00" stroke="param(outline) #000" stroke-width="param(outline-width) 0.05"
+       d="M 3.423087,3.242144 C 3.517790,3.293923 3.573411,3.334846 3.651027,3.294059 C 3.712259,3.261882 3.764096,3.176244 3.766220,3.103754 C 3.767378,3.064213 3.740123,2.976640 3.691396,2.941631 C 3.513907,2.814111 3.308063,2.756121 3.110055,2.663622 C 2.573880,2.413149 2.439740,2.380233 2.395206,2.488210 C 2.355216,2.585169 2.434349,2.675863 2.687702,2.823440 C 3.119085,3.074720 3.349197,3.201745 3.423087,3.242144 "
+       id="path4927" />
+    <path
+       fill="param(fill) #F00" stroke="param(outline) #000" stroke-width="param(outline-width) 0.05"
+       d="M 1.884620,1.836984 A 0.299981,0.299981 0 0,0 1.584639,2.136965 A 0.299981,0.299981 0 0,0 1.884620,2.436946 A 0.299981,0.299981 0 0,0 2.184601,2.136965 A 0.299981,0.299981 0 0,0 1.884620,1.836984 "
+       id="path4929" />
+    <path
+       fill="param(fill) #F00" stroke="param(outline) #000" stroke-width="param(outline-width) 0.05"
+       d="M 0.158930,2.916377 C 0.066737,2.972502 0.003485,3.000210 0.000000,3.087821 C -0.002750,3.156938 0.045496,3.244649 0.107213,3.282734 C 0.140877,3.303507 0.230345,3.323690 0.285028,3.298996 C 0.484207,3.209046 0.637350,3.059775 0.816461,2.934544 C 1.301464,2.595440 1.397040,2.495729 1.325796,2.403173 C 1.261823,2.320061 1.143713,2.343245 0.889230,2.488867 C 0.455924,2.736816 0.230861,2.872586 0.158930,2.916377 "
+       id="path4931" />
+    <path
+       fill="param(fill) #F00" stroke="param(outline) #000" stroke-width="param(outline-width) 0.05"
+       d="M 2.073131,0.252417 C 2.070621,0.144513 2.078251,0.075882 2.004121,0.029058 C 1.945639,-0.007882 1.845556,-0.009955 1.781715,0.024451 C 1.746893,0.043218 1.684679,0.110608 1.678725,0.170312 C 1.657034,0.387781 1.709735,0.595043 1.728632,0.812773 C 1.779804,1.402350 1.818368,1.534976 1.934146,1.519556 C 2.038109,1.505709 2.077086,1.391831 2.078216,1.098631 C 2.080138,0.599403 2.075090,0.336607 2.073131,0.252417 "
+       id="path4933" />
+  </g>
+</svg>
